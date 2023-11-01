@@ -33,7 +33,7 @@ export default function CopyRight() {
         mt={{ base: "10px", md: "20px" }}
         fontSize={{ base: "12px", md: "14px" }}
       >
-        Copyright © 2022
+        made by Sanhil❤️
       </Text>
     </>
   );
