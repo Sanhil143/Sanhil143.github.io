@@ -47,24 +47,6 @@ export default function GitStats() {
         </Box>
       </Flex>
 
-      <Flex
-        w={{ base: "70%", md: "80%", lg: "30%" }}
-        m="auto"
-        mt={{ base: "15px", md: "25px" }}
-        justifyContent="center"
-        alignItems="center"
-      >
-        <Box>
-          <a href="https://github.com/Sanhil143">
-            <Image
-              width={{ base: "250px", md: "280px", lg: "350px" }}
-              src={`https://github-readme-stats.vercel.app/api/top-langs?username=Sanhil143&show_icons=true&locale=en&layout=compact&langs_count=5&theme=${
-                Theme === "light" ? "buefy" : "midnight-purple"
-              }&show_icons=true`}
-            />
-          </a>
-        </Box>
-      </Flex>
     </>
   );
 }

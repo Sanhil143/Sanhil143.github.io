@@ -1,33 +1,8 @@
 [
   {
     "id": 1,
-    "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png",
-    "title": "HTML5"
-  },
-  {
-    "id": 2,
-    "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
-    "title": "CSS3"
-  },
-  {
-    "id": 3,
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
     "title": "JavaScript"
-  },
-  {
-    "id": 4,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
-    "title": "React.Js"
-  },
-  {
-    "id": 5,
-    "image": "https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png",
-    "title": "Redux.Js"
-  },
-  {
-    "id": 6,
-    "image": "https://img.icons8.com/fluency-systems-filled/256/chakra-ui.png",
-    "title": "Chakra UI"
   },
   {
     "id": 7,
@@ -35,8 +10,73 @@
     "title": "TypeScript"
   },
   {
-    "id": 8,
-    "image": "https://authy.com/wp-content/uploads/npm-logo.png",
-    "title": "NPM"
+    "id":14,
+    "image":"https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=webp&w=256",
+    "title":"Java"
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png",
+    "title": "Node.Js"
+  },
+  {
+    "id": 11,
+    "image": "https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png",
+    "title": "Express.Js"
+  },
+  {
+    "id": 16,
+    "image": "https://cdn.iconscout.com/icon/free/png-512/free-socket-54-282608.png?f=webp&w=256",
+    "title": "Socket"
+  },
+  {
+    "id": 17,
+    "image": "https://help.apiary.io/images/swagger-logo.png",
+    "title": "Swagger"
+  },
+  {
+    "id": 15,
+    "image": "https://cdn.iconscout.com/icon/free/png-512/free-postman-3628992-3030217.png?f=webp&w=256",
+    "title": "Postman"
+  },
+   {
+    "id":17,
+    "image": "https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=webp&w=256",
+    "title": "SQL Server"
+  },
+  {
+    "id": 12,
+    "image": "https://cdn.iconscout.com/icon/free/png-512/free-mysql-19-1174939.png?f=webp&w=256",
+    "title": "MySQL"
+  },
+  {
+    "id": 10,
+    "image": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+    "title": "MongoDB"
+  },
+  {
+    "id": 13,
+     "image":"https://cdn.iconscout.com/icon/free/png-512/free-redis-6-1175105.png?f=webp&w=256",
+     "title": "Redis"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png",
+    "title": "HTML5"
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
+    "title": "CSS3"
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+    "title": "React.Js"
+  },
+  {
+    "id": 6,
+    "image": "https://img.icons8.com/fluency-systems-filled/256/chakra-ui.png",
+    "title": "Chakra UI"
   }
 ]

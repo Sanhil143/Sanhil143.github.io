@@ -31,13 +31,14 @@ export default function SocialProfileSimple() {
           fontSize={{ base: "22px", md: "22px", lg: "40px" }}
           fontWeight={{ base: "600", md: "700" }}
           textAlign="center"
+          marginBottom="25px"
         >
           About Me
         </Text>
         <Center style={Theme === "light" ? light : dark}>
           <Box
             style={Theme === "light" ? light : dark}
-            maxW={{ base: "400px", md: "500px", lg: "550px" }}
+            maxW={{ base: "400px", md: "500px", lg: "1000px" }}
             w={"full"}
             bg={useColorModeValue("white", "gray.900")}
             rounded={"lg"}
@@ -47,6 +48,7 @@ export default function SocialProfileSimple() {
               textAlign={"justify"}
               color={useColorModeValue("gray.700", "gray.400")}
               px={3}
+              fontWeight={"bold"}
               style={Theme === "light" ? light : dark}
               width={{ base: "90%" }}
               m="auto"

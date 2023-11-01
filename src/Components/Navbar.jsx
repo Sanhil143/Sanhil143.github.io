@@ -78,7 +78,7 @@ export default function Navbar({
                   fontSize="38px"
                   color="white"
                 >
-                  RG
+                  SR❤️
                 </Heading>
               )}
             </Box>
