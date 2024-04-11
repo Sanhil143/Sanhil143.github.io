@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.fd6a1f70.css",
-    "main.js": "/static/js/main.ac7da88f.js",
+    "main.js": "/static/js/main.439e34fe.js",
     "static/js/787.0dd8dd44.chunk.js": "/static/js/787.0dd8dd44.chunk.js",
     "static/media/Sanhilrai.pdf": "/static/media/Sanhilrai.67f22e60492029c833ab.pdf",
     "index.html": "/index.html",
     "main.fd6a1f70.css.map": "/static/css/main.fd6a1f70.css.map",
-    "main.ac7da88f.js.map": "/static/js/main.ac7da88f.js.map",
+    "main.439e34fe.js.map": "/static/js/main.439e34fe.js.map",
     "787.0dd8dd44.chunk.js.map": "/static/js/787.0dd8dd44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6a1f70.css",
-    "static/js/main.ac7da88f.js"
+    "static/js/main.439e34fe.js"
   ]
 }
