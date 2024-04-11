@@ -25,7 +25,7 @@ export default function Navbar({
   const { Theme, ToggleTheme } = ChangeTheme();
   const handleDownload = () => {
     return window.open(
-      "https://drive.google.com/file/d/1ktnjPcOxTR2eiLWvz8pqec5CxcM2LX3U/view?usp=sharing"
+      "https://drive.google.com/file/d/15GDxrJnrkM9Q-vDLokN4mLW4UWZFwIEq/view?usp=sharing"
     );
   };
   const light = {
