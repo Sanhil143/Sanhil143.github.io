@@ -76,7 +76,7 @@ export default function Profile() {
 
           <Box>
             <Image
-              src="https://imgur.com/Iak4UA5.png"
+              src="https://i.ibb.co/wcwZgTP/Sanhil-Rai.jpg"
               shadow="lg"
               mt={{ base: "10px", md: "0px" }}
               w={{ base: "150px", md: "200px", lg: "350px" }}
