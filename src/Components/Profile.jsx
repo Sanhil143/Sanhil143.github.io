@@ -50,8 +50,8 @@ export default function Profile() {
                 <b>I'm</b> <b style={{ color: "#805AD5" }}>Sanhil Rai</b>
               </Text>
             </Flex>
-            <Text color="#RGBA(0, 0, 0, 0.64)   ">
-              <b>MERN Developer</b>
+            <Text color="#RGBA(0, 0, 0, 0.64)   " fontSize={{ base: "18px", md: "25px", lg: "45px" }}>
+              <b>Software Engineer</b>
             </Text>
             <Text
               as={Link}
