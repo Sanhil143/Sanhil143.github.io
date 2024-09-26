@@ -14,6 +14,7 @@ import Fade from "react-reveal/Fade";
 export default function SocialProfileSimple() {
   const { Theme } = ChangeTheme();
 
+  //light
   const light = {
     backgroundColor: "#E9D8FD",
     color: "black",
